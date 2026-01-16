@@ -86,14 +86,18 @@ Now assume the repository has **many issues**.
 
 ---
 
-## Part 4 — Small change in requirements
+## Part 4 — Small change in requirements (TODO)
 
-Add **one** of the following (your choice):
+Filtering:
 
 * Exclude issues with the label `wontfix` (case-insensitive), or
 * Only include issues created on or after a given date (`YYYY-MM-DD`).
 
 Explain briefly how you chose to implement it.
+
+---
+
+??? Maybe show some logs, make him identify an issue?
 
 ---
 
@@ -120,4 +124,4 @@ At the end, be ready to briefly explain:
 
 ---
 
-**Let us know when you’re ready to start.**
+**Let me know when you’re ready to start.**
